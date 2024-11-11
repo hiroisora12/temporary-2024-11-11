@@ -1,8 +1,8 @@
-import { v4  } from 'uuid';
+import {  v7  } from 'uuid';
 
 
 export const createUuid = () => {
-    return v4();
+    return v7();
 };
 
 export const sample = () => {
