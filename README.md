@@ -3,5 +3,5 @@
 ```shell
 $ npm instll uuid
 $ npm install [パッケージ名]
-$ npm
+$ npm 
 $ npm
